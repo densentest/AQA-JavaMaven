@@ -1,8 +1,6 @@
 package com.academy.telesens.Lesson11.File;
 
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
+import java.io.*;
 
 public class FileWriteDemo {
     public static void main(String[] args) {

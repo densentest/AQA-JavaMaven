@@ -1,9 +1,11 @@
 package com.academy.telesens.Lesson11;
 
+import com.academy.telesens.Lesson10_GenericAndColections.Generic.HomeTask.ListFirst;
 import com.academy.telesens.Lesson5_OOP.OOP.Person;
 import com.academy.telesens.Lesson7_Polimorfizm.Gender;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 public class Exercise extends Person {
