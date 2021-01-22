@@ -1,6 +1,5 @@
-package com.academy.telesens.Lesson11.Lesson12;
+package com.academy.telesens.Lesson12;
 
-import java.io.IOException;
 import java.sql.*;
 
 public class MySQLDemo {
